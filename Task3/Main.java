@@ -8,7 +8,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         Library library = new Library();
 
-        // Sample Data
+        
         library.addBook(new Book(1, "The Alchemist"));
         library.addBook(new Book(2, "Java Programming"));
         library.addUser(new User(101, "Manoj"));
