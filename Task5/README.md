@@ -32,8 +32,8 @@ BankOperations/
 
   ---
   ## Example Usage
-  Enter Account Holder Name: Manoj
-Enter Account ID: 101
+- Enter Account Holder Name: Manoj
+- Enter Account ID: 101
 
 ==== Bank Menu ====
 1. Deposit Money
@@ -41,21 +41,37 @@ Enter Account ID: 101
 3. View Balance
 4. View Transaction History
 5. Exit
-Enter your choice: 1
-Enter amount to deposit: ₹5000
-₹5000.0 deposited successfully.
+- Enter your choice: 1
+- Enter amount to deposit: ₹5000
+ - ₹5000.0 deposited successfully.
 
 ==== Bank Menu ====
-3
-Current Balance: ₹5000.0
+1. Deposit Money
+2. Withdraw Money
+3. View Balance
+4. View Transaction History
+5. Exit
+- Enter your choice:3
+- Current Balance: ₹5000.0
 
 ==== Bank Menu ====
-2
-Enter amount to withdraw: ₹1000
-₹1000.0 withdrawn successfully.
+1. Deposit Money
+2. Withdraw Money
+3. View Balance
+4. View Transaction History
+5. Exit
+- Enter your choice:2
+- Enter amount to withdraw: ₹1000
+- ₹1000.0 withdrawn successfully.
 
 ==== Bank Menu ====
-4
---- Transaction History ---
-Deposited: ₹5000.0
-Withdrew: ₹1000.0
+1. Deposit Money
+2. Withdraw Money
+3. View Balance
+4. View Transaction History
+5. Exit
+- Enter your choice: 4
+
+=== Transaction History ===
+- Deposited: ₹5000.0
+- Withdrew: ₹1000.0
